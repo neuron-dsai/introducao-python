@@ -1,0 +1,10 @@
+#,Nome,Tipo_1,Tipo_2,Total,HP,Ataque,Defesa,Vel.Ataque,Sp.Def,Velocidade,Geração,Lendario
+1,Bulbasaur,Grama,Veneno,318,45,49,49,65,65,45,1,FALSE
+2,Ivysaur,Grama,Veneno,405,60,62,63,80,80,60,1,FALSE
+3,Venusaur,Grama,Veneno,525,80,82,83,100,100,80,1,FALSE
+4,Charmander,Fogo,,309,39,52,43,60,50,65,1,FALSE
+5,Charmeleon,Fogo,,405,58,64,58,80,65,80,1,FALSE
+6,Charizard,Fogo,Voador,534,78,84,78,109,85,100,1,FALSE
+7,Squirtle,Agua,,314,44,48,65,50,64,43,1,FALSE
+8,Wartortle,Agua,,405,59,63,80,65,80,58,1,FALSE
+9,Blastoise,Agua,,530,79,83,100,85,105,78,1,FALSE
